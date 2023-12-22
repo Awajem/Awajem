@@ -3,7 +3,7 @@
 - 🌱 I’m currently improving my Javascript.
 - 💞️ I’m looking to collaborate on developing wesites.
 - 📫 How to reach me awajemichael@gmail.com
-- https://www.linkedin.com/in/awaje-michael-7b12a0153/
+https://www.linkedin.com/in/awajem/
 
 <!---
 Awajem/Awajem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
