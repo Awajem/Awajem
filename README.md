@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Awajem
 - 👀 I’m interested in Front-end development.
 - 🌱 I’m currently improving my Javascript.
-- 💞️ I’m looking to collaborate on developing wesites.
+- 💞️ I’m looking to collaborate on developing dynamic frontend user interfaces.
 - 📫 How to reach me awajemichael@gmail.com
 https://www.linkedin.com/in/awajem/
 
